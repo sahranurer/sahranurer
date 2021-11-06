@@ -3,6 +3,7 @@
 
 
 🔭 I’m currently working on Android-kotlin and Back-end C#
+<br/>
 🌱 I’m currently learning everything 🤣
  ### Reach out to me 
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sahranurer) 
