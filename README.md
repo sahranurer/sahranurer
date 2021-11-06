@@ -1,4 +1,4 @@
-![giph](https://user-images.githubusercontent.com/63001162/140613993-1af6ffb4-b57d-4ff1-967e-151417b3cf90.gif)
+<img src="![giph](https://user-images.githubusercontent.com/63001162/140613993-1af6ffb4-b57d-4ff1-967e-151417b3cf90.gif)" align=left >
 
 
 ### Hi there I'm Sahra 👋 :blush:
