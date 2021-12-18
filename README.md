@@ -8,7 +8,7 @@
  ### Reach out to me 
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sahranurer) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@sahranurerr) 
-[![Medium Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-quare&labelColor=white&logo=Linkedin&logoColor=000&link=link)](https://medium.com/@sahranurerr) 
+(https://img.shields.io/badge/-Linkedin-white?style=flat-quare&labelColor=white&logo=Linkedin&logoColor=000&link=link)](https://www.linkedin.com/in/sahranurer/) 
 
  ### Teach I Use
 
